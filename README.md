@@ -17,7 +17,7 @@ the area is optional, so you could also do this for all elements on the site:
 Quite cool?  
 But the best thing is, clicking on such an item will beam you right to the element.
 
-### Use
+### Usage
 
     <script type="text/javascript" src="path/to/beam.js"></script>
 
